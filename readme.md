@@ -1,8 +1,6 @@
-## ProyectoBase
+# proyecto-base
+Angular + Firebase + State management
 
-git add .
+This sample is published as part of the corresponding blog article at https://www.toptal.com/angular/state-management-in-angular-using-firebase
 
-git commit -m "Inicio Proyecto Base"
-
-git push origin main
-
+Visit https://www.toptal.com/blog and subscribe to our newsletter to read great posts!
